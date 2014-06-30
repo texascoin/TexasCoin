@@ -1,0 +1,9 @@
+Building texascoin
+
+See doc/readme-qt.rst for instructions on building texascoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of texascoin.
+
+See doc/build-*.txt for instructions on building texascoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of texascoin.
